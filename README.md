@@ -21,4 +21,4 @@ A curated archive of fundamental equity valuations, corporate finance models, an
 * **Data Platforms:** Refinitiv Eikon, Bloomberg, Yahoo Finance, NYU Stern datasets, and Advanced MS Excel.
 
 ---
-*Author: Khushi Sharma | [LinkedIn](https://www.linkedin.com/in/khushi-sharma2124) | [Portfolio](https://khushisharma2124.github.io/)*
+*Author: Khushi Sharma | [LinkedIn](https://www.linkedin.com/in/khushi-sharma2124) | [Portfolio](https://github.com/khushi-214)*
